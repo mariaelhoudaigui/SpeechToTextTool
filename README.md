@@ -1,4 +1,4 @@
-# Descritpion 
+# Descritption 
 
 This project is a simple tool to record audio using a microphone and convert it into text using Google's Speech Recognition API. 
 The tool is currently set up for the French language but can be adapted for other languages.
